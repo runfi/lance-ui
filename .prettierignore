@@ -1,0 +1,5 @@
+*.html
+node_modules/
+test/
+src/fragment
+src/inline
